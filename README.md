@@ -1,0 +1,1 @@
+Put two portrait images here only if you own them or have permission to edit them. Do not commit private or non-consensual images. Example: `python face_swap.py --source sample_images/source.jpg --target sample_images/target.jpg --output output/swapped.jpg`.
